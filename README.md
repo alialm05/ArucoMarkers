@@ -1,5 +1,7 @@
 # ArUCo-Markers-Pose-Estimation-Generation-Python
 
+note: make a calibration_checkerboard folder and calibration2.0/images folder 
+
 This repository contains all the code you need to generate an ArucoTag,
 detect ArucoTags in images and videos, and then use the detected tags
 to estimate the pose of the object. In addition to this, I have also 
